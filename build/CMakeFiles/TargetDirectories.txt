@@ -1,0 +1,3 @@
+/mnt/d/staticBossGuy/build/CMakeFiles/static_threading_task.dir
+/mnt/d/staticBossGuy/build/CMakeFiles/edit_cache.dir
+/mnt/d/staticBossGuy/build/CMakeFiles/rebuild_cache.dir
