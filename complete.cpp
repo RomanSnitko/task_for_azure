@@ -72,7 +72,7 @@ public:
 
     std::size_t GetMessageCount() const
     {
-        message_count.load(std::memory_order_relaxed);
+        return message_count.load(std::memory_order_relaxed);
         // return message_count;
     }
 
